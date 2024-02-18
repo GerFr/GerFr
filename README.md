@@ -5,18 +5,18 @@ I'm Gerrit, a passionate computer science student from Germany. Im interested in
 ## Tech Stack Snapshot
 
 - **Proficient In:**
-  - Python: My go-to language for its simplicity and versatility.
-  - Git: Git is the backbone of my version control.
+  - Python
+  - Git
 
 - **Learning:**
-  - C/C++: Venturing into systems programming and low-level magic.
-  - Machine Learning (Python): From regression to deep learning – the data-driven adventure.
+  - C/C++
+  - Machine Learning (Python)
+  - app dev
+  - robotics
 
-## Current Focus
+## Projects
 
-N-Body Simulations (Barnes-Hut Algorithm):
-Building a Python program for N-body simulations using the Barnes-Hut algorithm.
-Exploring optimizations for efficient gravitational simulations in large datasets.
+- [N-Body Simulation](https://github.com/GerFr/Python-Gravity-Simulation)
 
 ## Collaboration Interests
 
