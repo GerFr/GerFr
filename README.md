@@ -11,7 +11,7 @@ I'm Gerrit, a passionate computer science student from Germany. Im interested in
 - **Learning:**
   - C/C++
   - Machine Learning (Python)
-  - app dev
+  - Flutter
   - robotics
 
 ## Projects
